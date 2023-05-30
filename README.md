@@ -204,6 +204,6 @@ Training data did not include further alterations besides the deepfake (eg. the 
 
 If you wish to contact me, Christopher Denq, please reach out via [LinkedIn](https://www.linkedin.com/in/christopherdenq/).
 
-If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://cdenq.github.io/).
+If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
