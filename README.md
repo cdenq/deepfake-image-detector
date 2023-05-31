@@ -55,7 +55,7 @@
       </ul>
     </li>
         <li>
-      <a href="#results">Process</a>
+      <a href="#results">Results</a>
       <ul>
         <li><a href="#results-screen">Screenshots</a></li>
         <li><a href="#results-conclusion">Conclusions</a></li>
