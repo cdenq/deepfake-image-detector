@@ -202,8 +202,6 @@ Training data did not include further alterations besides the stock deepfake ima
 <a name="contact"></a>
 # Contact
 
-If you wish to contact me, Christopher Denq, please reach out via [LinkedIn](https://www.linkedin.com/in/christopherdenq/).
-
-If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
+To directly message me or setup a time to chat virtually, see my [contact page](https://github.com/cdenq#contact).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
